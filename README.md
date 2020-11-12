@@ -12,3 +12,6 @@ https://api.spotify.com/v1/me/playlist
 cassette tape start to running, and the album picture also goes to the background behind the tape and a player shows just below the tape.
 
 ## and it is responsive to mobile
+
+![mobile](mobile.jpg)
+
